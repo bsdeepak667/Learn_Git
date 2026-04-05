@@ -1,0 +1,2 @@
+This is a new test.
+Adding some new things to commit.
