@@ -6,6 +6,7 @@
  git push commands 
  git status 
  git log
-
+ git restore
+ git reset
 
  Thanks!
