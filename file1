@@ -30,9 +30,6 @@ int main() {
 
     return 0;
 }
-// C program to print the prime numbers in the given range.
-
-// Prime number between 10 to 30.
 
 
 
